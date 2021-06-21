@@ -2,7 +2,7 @@ AliceBundle
 ===========
 
 A [Symfony](http://symfony.com) bundle to manage fixtures with [nelmio/alice](https://github.com/nelmio/alice) and
-[fzaninotto/Faker](https://github.com/fzaninotto/Faker).
+[FakerPHP/Faker](https://github.com/FakerPHP/Faker).
 
 The database support is done in [FidryAliceDataFixtures](https://github.com/theofidry/AliceDataFixtures). Check this
 project to know which database/ORM is supported.
